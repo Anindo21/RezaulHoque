@@ -33,7 +33,7 @@ I combine data analytics, cloud engineering, and automation to help organization
 
 ### 💼 Professional Experience
 
-> **Data & Automation Analyst** @ **Uniper** *(Market Risk & Finance Reporting)*
+> **Data & Automation Analyst** @ **Uniper** *(Enterprise Intelligence Reporting)*
 > * Deliver enterprise Power BI dashboards that give Market Risk and Finance teams faster, clearer visibility into key metrics.
 > * Automate complex reporting pipelines with Power Automate and custom scripting, cutting manual effort and turnaround time.
 > * Support internal AI initiatives and digital transformation roadmaps as a technical contributor.
