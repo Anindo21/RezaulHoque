@@ -1,57 +1,47 @@
-<!-- NATIVE STABLE CSS SLIDESHOW TYPING BANNER -->
-<div align="center" style="background: linear-gradient(135deg, #001F3F 0%, #004B87 50%, #0078D4 100%); padding: 40px 20px; border-radius: 12px; margin-bottom: 25px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); overflow: hidden; position: relative;">
+<!-- PROFILE HEADER -->
+<div align="center" style="background: linear-gradient(135deg, #001F3F 0%, #004B87 50%, #0078D4 100%); padding: 40px 20px; border-radius: 12px; margin-bottom: 25px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+
   <h1 style="color: #FFFFFF; font-family: 'Segoe UI', Helvetica, sans-serif; font-size: 32px; font-weight: 800; margin: 0 0 5px 0; letter-spacing: 0.5px;">👋 Rezaul Hoque</h1>
-  
-  <!-- Dynamic CSS Text Cycler -->
-  <div style="font-family: 'Fira Code', 'Courier New', monospace; font-size: 20px; font-weight: 600; color: #60A5FA; height: 30px; margin: 15px 0;">
-    <style>
-      @keyframes textCycle {
-        0%, 20% { content: "DATA & AUTOMATION ANALYST"; }
-        25%, 45% { content: "BRIDGING DATA, CLOUD & AI SOLUTIONS"; }
-        50%, 70% { content: "INTELLIGENT BUSINESS PROCESS AUTOMATION"; }
-        75%, 95% { content: "TURNING RAW DATA INTO BUSINESS STRATEGY"; }
-      }
-      .dynamic-text::after {
-        content: "";
-        animation: textCycle 16s infinite;
-      }
-    </style>
-    <span class="dynamic-text">> </span>
-  </div>
+
+  <!-- Animated typing tagline (renders as an SVG image, works reliably on GitHub) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=DATA+%26+AUTOMATION+ANALYST;BRIDGING+DATA%2C+CLOUD+%26+AI+SOLUTIONS;INTELLIGENT+BUSINESS+PROCESS+AUTOMATION;TURNING+RAW+DATA+INTO+BUSINESS+STRATEGY" alt="Typing SVG" />
+
+  <br/><br/>
 
   <div style="display: inline-block; background: rgba(255, 255, 255, 0.12); border: 1px solid rgba(255, 255, 255, 0.25); padding: 6px 18px; border-radius: 20px; color: #E0F2FE; font-family: sans-serif; font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">
     💡 M.Sc. Information Systems Specialist
   </div>
+
 </div>
 
 <p align="center">
   🚀 Data & Automation Analyst @ Uniper | M.Sc. Information Systems Candidate @ University of Duisburg-Essen
 </p>
 <p align="center">
-  <strong>💼 Active Job Seeker | Open to Full-Time Roles</strong>
+  <strong>💼 Actively Seeking Full-Time Opportunities</strong>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I integrate data analytics, cloud technology, AI, and automation to empower organizations to make superior decisions and iterate business processes faster.
+I combine data analytics, cloud engineering, and automation to help organizations turn raw data into faster, better business decisions.
 
-> **I am not merely a data analyst.** Leveraging a Computer Engineering background and hands-on DevOps experience, I architect and build the critical end-to-end data pipelines that enable predictive modeling, advanced analytics, and strategic business value creation. I operate effectively where complex system design meets actionable business intelligence.
+> **I'm not just a data analyst.** With a Computer Engineering background and hands-on DevOps experience, I design and build the end-to-end data pipelines that power predictive modeling, advanced analytics, and measurable business value — operating comfortably at the intersection of system architecture and business intelligence.
 
 ---
 
 ### 💼 Professional Experience
 
 > **Data & Automation Analyst** @ **Uniper** *(Market Risk & Finance Reporting)*
-> * End-to-end delivery of enterprise Power BI dashboards for financial and market risk assessment.
-> * Automation of complex reporting pipelines, transforming raw datasets into actionable insights using Power Automate and custom scripting.
-> * Strategic support for internal AI initiatives and digital transformation roadmaps.
+> * Deliver enterprise Power BI dashboards that give Market Risk and Finance teams faster, clearer visibility into key metrics.
+> * Automate complex reporting pipelines with Power Automate and custom scripting, cutting manual effort and turnaround time.
+> * Support internal AI initiatives and digital transformation roadmaps as a technical contributor.
 
 > **Former DevOps Engineer** @ **Uniper**
-> * Designed and deployed scalable monitoring architectures using Azure Monitor for application optimization.
-> * Developed secure CI/CD pipelines in Azure DevOps to accelerate software delivery cycles.
-> * Spearheaded cloud infrastructure automation using Terraform, Git, and PowerShell.
+> * Designed and deployed Azure Monitor architectures to track and optimize application performance.
+> * Built secure CI/CD pipelines in Azure DevOps to accelerate release cycles.
+> * Automated cloud infrastructure provisioning using Terraform, Git, and PowerShell.
 
 ---
 
@@ -70,25 +60,25 @@ I integrate data analytics, cloud technology, AI, and automation to empower orga
 
 #### 🌐 ESSEN GPT Digital Resilience Assessment (Aurora Challenge)
 *Led a sociotechnical resilience assessment of the ESSEN GPT infrastructure as part of an international student framework.*
-* **Core Impact:** Formulated multi-layer failure countermeasures and risk mitigations, presenting the results directly at the **Information Systems Quality Conference**.
+* **Impact:** Developed multi-layer failure countermeasures and risk mitigations; presented findings at the **Information Systems Quality Conference**.
 * **Focus Areas:** Digital Resilience • Sociotechnical Systems • AI Quality Assurance
 
 #### 📊 Data-Driven Supply Chain Decision Support System
-*Developed an end-to-end analytical platform combining data warehousing, forecasting metrics, and visualization to optimize inventory workflows.*
+*Built an end-to-end analytics platform combining data warehousing, forecasting, and visualization to optimize inventory workflows.*
 * **Tech Stack:** `Python` • `SQL Server` • `Power BI` • `DAX` • `Machine Learning`
 
 #### ☁️ Azure Monitoring & Cloud Hosting Optimization
-*Architectural analysis and deployment of Azure Monitor metrics to ensure high availability and minimize cloud spend for complex applications.*
+*Deployed Azure Monitor metrics and architecture to ensure high availability while minimizing cloud spend for complex applications.*
 * **Tech Stack:** `Azure` • `Azure Monitor` • `Terraform`
 
 #### 🤖 Enterprise AI Strategy Consulting (TÜV NORD)
-*Co-authored a comprehensive 10-year AI transformation strategy focused on quality assurance, AI governance, and digital scaling.*
+*Co-authored a 10-year AI transformation strategy focused on quality assurance, AI governance, and digital scaling.*
 
 ---
 
 ### 🏆 Key Certifications & Core Academics
 
-#### 🛡️ Advanced Cloud & DevOps
+#### 🛡️ Cloud & DevOps
 * **AZ-400:** Designing and Implementing Microsoft DevOps Solutions *(Microsoft)*
 * **AZ-305:** Microsoft Azure Architect Design Prerequisites *(Microsoft)*
 * **AZ-900:** Microsoft Azure Fundamentals *(Microsoft)*
