@@ -4,18 +4,18 @@
   <h1 style="color: #FFFFFF; font-family: 'Segoe UI', Helvetica, sans-serif; font-size: 32px; font-weight: 800; margin: 0 0 5px 0; letter-spacing: 0.5px;">👋 Rezaul Hoque</h1>
 
   <!-- Animated typing tagline (renders as an SVG image, works reliably on GitHub) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=DATA+%26+AUTOMATION+ANALYST;BRIDGING+DATA%2C+CLOUD+%26+AI+SOLUTIONS;INTELLIGENT+BUSINESS+PROCESS+AUTOMATION;TURNING+RAW+DATA+INTO+BUSINESS+STRATEGY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=DATA+%26+AUTOMATION+ANALYST;AI+ENGINEER+%7C+AGENTIC+AI+SOLUTIONS;INTELLIGENT+BUSINESS+PROCESS+AUTOMATION;TURNING+RAW+DATA+INTO+BUSINESS+STRATEGY" alt="Typing SVG" />
 
   <br/><br/>
 
   <div style="display: inline-block; background: rgba(255, 255, 255, 0.12); border: 1px solid rgba(255, 255, 255, 0.25); padding: 6px 18px; border-radius: 20px; color: #E0F2FE; font-family: sans-serif; font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">
-    💡 M.Sc. Information Systems Specialist
+    💡 M.Sc. Information Systems
   </div>
 
 </div>
 
 <p align="center">
-  🚀 Data & Automation Analyst @ Uniper | M.Sc. Information Systems Candidate @ University of Duisburg-Essen
+  🚀 Data & Automation Analyst @ Uniper | 🎓 University of Duisburg-Essen
 </p>
 <p align="center">
   <strong>💼 Actively Seeking Full-Time Opportunities</strong>
@@ -27,7 +27,7 @@
 
 I combine data analytics, cloud engineering, and automation to help organizations turn raw data into faster, better business decisions.
 
-> **I'm not just a data analyst.** With a Computer Engineering background and hands-on DevOps experience, I design and build the end-to-end data pipelines that power predictive modeling, advanced analytics, and measurable business value — operating comfortably at the intersection of system architecture and business intelligence.
+> **I'm not just a data analyst.** With a Computer Engineering background and hands-on DevOps experience, I design and build the end-to-end data pipelines and agentic AI workflows that power predictive modeling, advanced analytics, and measurable business value — operating comfortably at the intersection of system architecture and business intelligence.
 
 ---
 
@@ -59,8 +59,8 @@ I combine data analytics, cloud engineering, and automation to help organization
 ### 📌 Featured Projects
 
 #### 🌐 ESSEN GPT Digital Resilience Assessment (Aurora Challenge)
-*Led a sociotechnical resilience assessment of the ESSEN GPT infrastructure as part of an international student framework.*
-* **Impact:** Developed multi-layer failure countermeasures and risk mitigations; presented findings at the **Information Systems Quality Conference**.
+*Contributed to a sociotechnical resilience assessment of the ESSEN GPT infrastructure, organized by the City of Essen and Essener Systemhaus as part of the Aurora university network challenge, alongside students from partner universities.*
+* **Impact:** Developed multi-layer failure countermeasures and risk mitigation strategies for large-scale municipal AI deployment.
 * **Focus Areas:** Digital Resilience • Sociotechnical Systems • AI Quality Assurance
 
 #### 📊 Data-Driven Supply Chain Decision Support System
